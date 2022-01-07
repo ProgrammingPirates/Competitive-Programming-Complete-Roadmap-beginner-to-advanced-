@@ -5,6 +5,14 @@ If you don't know much about competitive programming, you may want to read the '
 
 In this article we will learn about:
 
+
+![image](https://user-images.githubusercontent.com/78801686/148552218-9468f0aa-6eb5-4465-8985-944977c84665.png)
+
+![image](https://user-images.githubusercontent.com/78801686/148552250-42c08513-3628-4088-96fa-687841ca3f2d.png)
+
+![image](https://user-images.githubusercontent.com/78801686/148552275-7f78ce66-2dfa-4fcb-abd1-84a4928f9e89.png)
+
+
 The steps required to get started with competitive programming.
 The topics that you need to learn to get good at competitive programming.
 The best resources for competitive programming.
